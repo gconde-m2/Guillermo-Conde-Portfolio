@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/guillermo-Conde-Portfolio/static/css/main.c0203237.chunk.css",
-    "main.js": "/guillermo-Conde-Portfolio/static/js/main.d2a738b0.chunk.js",
-    "main.js.map": "/guillermo-Conde-Portfolio/static/js/main.d2a738b0.chunk.js.map",
+    "main.css": "/guillermo-Conde-Portfolio/static/css/main.3f8a3c9a.chunk.css",
+    "main.js": "/guillermo-Conde-Portfolio/static/js/main.4f5805a3.chunk.js",
+    "main.js.map": "/guillermo-Conde-Portfolio/static/js/main.4f5805a3.chunk.js.map",
     "runtime-main.js": "/guillermo-Conde-Portfolio/static/js/runtime-main.e6acd594.js",
     "runtime-main.js.map": "/guillermo-Conde-Portfolio/static/js/runtime-main.e6acd594.js.map",
     "static/css/2.e5d0dddf.chunk.css": "/guillermo-Conde-Portfolio/static/css/2.e5d0dddf.chunk.css",
-    "static/js/2.975878f5.chunk.js": "/guillermo-Conde-Portfolio/static/js/2.975878f5.chunk.js",
-    "static/js/2.975878f5.chunk.js.map": "/guillermo-Conde-Portfolio/static/js/2.975878f5.chunk.js.map",
+    "static/js/2.9f54561b.chunk.js": "/guillermo-Conde-Portfolio/static/js/2.9f54561b.chunk.js",
+    "static/js/2.9f54561b.chunk.js.map": "/guillermo-Conde-Portfolio/static/js/2.9f54561b.chunk.js.map",
     "index.html": "/guillermo-Conde-Portfolio/index.html",
-    "precache-manifest.ba9c66175be602c3d4afd0174ca7e113.js": "/guillermo-Conde-Portfolio/precache-manifest.ba9c66175be602c3d4afd0174ca7e113.js",
+    "precache-manifest.a4290c29751710687a1746bc26b5698c.js": "/guillermo-Conde-Portfolio/precache-manifest.a4290c29751710687a1746bc26b5698c.js",
     "service-worker.js": "/guillermo-Conde-Portfolio/service-worker.js",
     "static/css/2.e5d0dddf.chunk.css.map": "/guillermo-Conde-Portfolio/static/css/2.e5d0dddf.chunk.css.map",
-    "static/css/main.c0203237.chunk.css.map": "/guillermo-Conde-Portfolio/static/css/main.c0203237.chunk.css.map",
-    "static/js/2.975878f5.chunk.js.LICENSE.txt": "/guillermo-Conde-Portfolio/static/js/2.975878f5.chunk.js.LICENSE.txt",
+    "static/css/main.3f8a3c9a.chunk.css.map": "/guillermo-Conde-Portfolio/static/css/main.3f8a3c9a.chunk.css.map",
+    "static/js/2.9f54561b.chunk.js.LICENSE.txt": "/guillermo-Conde-Portfolio/static/js/2.9f54561b.chunk.js.LICENSE.txt",
     "static/media/42.png": "/guillermo-Conde-Portfolio/static/media/42.2cef0425.png",
     "static/media/buddy.png": "/guillermo-Conde-Portfolio/static/media/buddy.f31ca048.png",
     "static/media/buddyvideo.gif": "/guillermo-Conde-Portfolio/static/media/buddyvideo.a58f4a9d.gif",
@@ -37,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.e6acd594.js",
     "static/css/2.e5d0dddf.chunk.css",
-    "static/js/2.975878f5.chunk.js",
-    "static/css/main.c0203237.chunk.css",
-    "static/js/main.d2a738b0.chunk.js"
+    "static/js/2.9f54561b.chunk.js",
+    "static/css/main.3f8a3c9a.chunk.css",
+    "static/js/main.4f5805a3.chunk.js"
   ]
 }
