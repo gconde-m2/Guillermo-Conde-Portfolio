@@ -72,7 +72,7 @@ function Index() {
           </div>
           </Col>
           <Col className='main-buttons' xs={0} md={4} lg={12}>
-              <Link to ='/contact'>Contact me</Link>
+              <Link to ='/guillermo-Conde-Portfolio/contact'>Contact me</Link>
           </Col>
         </Row>
 

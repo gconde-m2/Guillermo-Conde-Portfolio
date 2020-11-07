@@ -26,7 +26,7 @@ function Ninja() {
             <section >
         <h1 className='sectiontitle'>Ninja</h1>
              <h2>
-             2d platformer game hecho con Canvas and full JS. Jump, Attack, Second attack and move, survive until the end.
+             2d platformer game made with Canvas and full JS. Jump, Attack, Second attack and move, survive until the end.
                </h2>
                <h2>
              Made with full JavaScript from the scratch and Canvas
