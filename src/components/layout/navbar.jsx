@@ -13,7 +13,7 @@ function navbar(){
 return(
   
     <Navbar  collapseOnSelect  className='nav'  expand="lg" bg="" variant="dark" >
-  <Navbar.Brand href='#' ><Link to='/'className='enlaces'> <img className='navlogo' src={logonav} alt=""/></Link></Navbar.Brand>
+  <Navbar.Brand href='#' ><Link to='/guillermo-Conde-Portfolio'className='enlaces'> <img className='navlogo' src={logonav} alt=""/></Link></Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse bg="dark" id="responsive-navbar-nav">
     <Nav className="mr-auto">
