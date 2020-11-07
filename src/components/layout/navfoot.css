@@ -1,14 +1,11 @@
-.nav{
-    padding-top: 70px;
-    
-}
+
 .navlogo{
-    width: 100px;
+    width: 8vh;
 }
 .enlaces{
-    font-size: 30px;
+    font-size: 2.4vh;
     color: white;
-    padding-left: 20px;
+    padding-left: 16px;
 }
 .enlaces a{
     color:white
@@ -18,11 +15,11 @@
     position: absolute;
     left: 0;
     bottom: 0;
-    height: 50px;
+    height: 40px;
     width: 100%;
     overflow: hidden;
     text-align: center;
-    
+    margin-bottom: 1vh;
 }
 .paddin{
     margin-left: 20px;
@@ -43,7 +40,7 @@
     .enlaces{
         font-size: 23px;
         color: white;
-        padding-left: 20px;
+        padding-left: 2vh;
     }
 
 }

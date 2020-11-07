@@ -1,10 +1,10 @@
 .main{
     
-    margin-bottom: 100px;
+    margin-bottom: 10vh;
     background-color: #1d1d1d;
-    margin-top: 15%;
+    margin-top: 30vh;
     text-align: left;
-    margin-left: 10%;
+    margin-left: 19vh;
    
 }
 
@@ -36,20 +36,21 @@
    
   
     color:white;
-    margin-bottom: 75px;
+    margin-bottom: 7vh;
 }
 .main-buttons{
-    margin-top: 30px;
+    margin-top: 3vh;
 }
 .main-buttons a{
     margin-top: 30px;
-    padding: 10px;
+    padding: 8px;
+    font-size: 1.4vh;
     background: none;
     border: 1px solid grey;
     color: white;
 }
 .main-letters h1{
-    font-size: 70px;
+    font-size: 5vh;
     color: white;
     font-weight: 800;
 
@@ -75,8 +76,8 @@
     background-color: rgb(249, 249, 254);
 } */
 .sectiontitle{
-    margin-top: 50px;
-    margin-bottom: 60px;
+    margin-top: 5vh;
+    margin-bottom: 6vh;
     font-size: 100px;
     font-weight: 500;
     white-space: nowrap;
@@ -121,7 +122,7 @@
     }
     .spacing-index{
         
-        margin-top: 30%;
+        margin-top: 10vh;
     }
     .main{
         margin-top: 0;
@@ -136,7 +137,7 @@
         
     }
     .main-letters h1{
-        font-size: 25px;
+        font-size: 28px;
         color: white;
     
     }
@@ -156,6 +157,9 @@
         color: black;
         animation: animated-text 2s steps(30,end) 1s 1 normal both;
       }
+      .main-buttons{
+        margin-top: 16vh;
+    }
      .aboutme-p{
         font-size: 25px;
         margin-top: 30px;

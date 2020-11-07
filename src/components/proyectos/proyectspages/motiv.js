@@ -50,7 +50,7 @@ Made with Handlebars, JavaScript, Express, MongoDB, Node.js
 
       </Container>
       <section className='whiting'>
-      <Link to='/proyects'>Back</Link>
+      <Link to='/guillermo-Conde-Portfolio/proyects'>Back</Link>
 
       </section>
       </section>

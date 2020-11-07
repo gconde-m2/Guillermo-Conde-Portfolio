@@ -15,9 +15,9 @@ function Footer(){
 return(
   
 <section className='foot'>
-    <a href='https://github.com/gconde-m2'><img  src = {github}/> </a>
-    <a href='https://www.linkedin.com/in/guillermo-conde/'> <img  className='paddin' style={{width:"32px"}} src = {linkedin}/> </a>
-    <a href='https://www.instagram.com/guilleconde23/'> <img  className='paddin' style={{width:"32px"}} src = {instagram}/> </a>
+    <a href='https://github.com/gconde-m2'><img style={{width:"32px"}} src = {github}/> </a>
+    <a href='https://www.linkedin.com/in/guillermo-conde/'> <img  className='paddin' style={{width:"35px"}} src = {linkedin}/> </a>
+    <a href='https://www.instagram.com/guilleconde23/'> <img  className='paddin' style={{width:"36px"}} src = {instagram}/> </a>
 </section>
 
 )

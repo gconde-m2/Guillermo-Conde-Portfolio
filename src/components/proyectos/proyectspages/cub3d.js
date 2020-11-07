@@ -47,7 +47,7 @@ Game made with Ray Casting in C Wolfestein like, simulating 3d environment
 
       </Container>
       <section className='whiting'>
-      <Link to='/proyects'>Back</Link>
+      <Link to='/guillermo-Conde-Portfolio/proyects'>Back</Link>
 
       </section>
       </section>

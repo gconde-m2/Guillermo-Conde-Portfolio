@@ -14,7 +14,7 @@ const coding = () => (
       animTimingFunction: 'EASE',
       duration: 160,
     }}
-    style={{ height: '300px', width: '70%' }}
+    style={{ height: '200px', width: '70%' }}
     callback={console.log}
   />
 );

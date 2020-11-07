@@ -30,7 +30,7 @@ function Contact() {
           mouseControls: true,
           touchControls: true,
           gyroControls: true,
-          minHeight: 500.00,
+          minHeight: 400.00,
           minWidth: 800.00,
           scale: 1.00,
           scaleMobile: 1.00,
