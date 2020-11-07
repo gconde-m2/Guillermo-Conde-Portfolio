@@ -1,0 +1,168 @@
+.main{
+    
+    margin-bottom: 100px;
+    background-color: #1d1d1d;
+    margin-top: 15%;
+    text-align: left;
+    margin-left: 10%;
+   
+}
+
+.princi{
+    
+  
+    width: 300px;
+    
+    margin-bottom: 40px;
+}
+.card1{
+
+    background-color: black;
+}
+.main-img{
+
+    margin-top: 15%;
+    
+}
+.linkedin{
+
+    width:64px;
+    margin-right: 100px;
+}
+.logos{
+    padding-top: 30px;
+}
+.main-letters{
+   
+  
+    color:white;
+    margin-bottom: 75px;
+}
+.main-buttons{
+    margin-top: 30px;
+}
+.main-buttons a{
+    margin-top: 30px;
+    padding: 10px;
+    background: none;
+    border: 1px solid grey;
+    color: white;
+}
+.main-letters h1{
+    font-size: 70px;
+    color: white;
+    font-weight: 800;
+
+}
+.main-letters p{
+    font-size: 25px;
+    color:white;
+    font-weight: 800;
+}
+.main-letters hr{
+
+    border-top: 9px dotted white;
+    width:90%;
+    padding-bottom: 20px;
+
+}
+.title{
+    font-size: 60px;
+    font-weight: 900;
+    padding-bottom: 20px;
+}
+/* .aboutme{
+    background-color: rgb(249, 249, 254);
+} */
+.sectiontitle{
+    margin-top: 50px;
+    margin-bottom: 60px;
+    font-size: 100px;
+    font-weight: 500;
+    white-space: nowrap;
+    overflow: hidden;    
+    font-family: 'Source Code Pro', monospace;  
+    
+    color: black;
+    animation: animated-text 2s steps(30,end) 1s 1 normal both;
+  }
+ .aboutme-p{
+
+    margin-top: 30px;
+    margin-bottom: 40px;
+ }
+ .fade-in-section {
+    opacity: 0;
+    transform: translateY(20vh);
+    visibility: hidden;
+    transition: opacity 0.6s ease-out, transform 1.2s ease-out;
+    will-change: opacity, visibility;
+  }
+  .fade-in-section.is-visible {
+    opacity: 1;
+    transform: none;
+    visibility: visible;
+  }
+  .movingg{
+    display:none;
+    width:100%;
+  }
+@media (max-width: 600px){
+    .movingg{
+        display: block ;
+        margin-top: 15px;
+        width:300px;
+        height: 200px;
+    }
+    .symbol{
+
+        display: none;
+
+    }
+    .spacing-index{
+        
+        margin-top: 30%;
+    }
+    .main{
+        margin-top: 0;
+        text-align: left;
+        margin-left:0;
+        margin-bottom: 0;
+    }
+    .main-letters{
+       
+        color:white;
+        padding-bottom: 0;
+        
+    }
+    .main-letters h1{
+        font-size: 25px;
+        color: white;
+    
+    }
+    .main-letters h2{
+        font-size: 20px;
+        color: white;
+    
+    }
+    .sectiontitle{
+        margin-top: 50px;
+        font-size: 35px;
+        font-weight: 400;
+        white-space: nowrap;
+        overflow: hidden;    
+        font-family: 'Source Code Pro', monospace;  
+        
+        color: black;
+        animation: animated-text 2s steps(30,end) 1s 1 normal both;
+      }
+     .aboutme-p{
+        font-size: 25px;
+        margin-top: 30px;
+        margin-bottom: 40px;
+     }
+
+}
+
+
+

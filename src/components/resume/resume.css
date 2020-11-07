@@ -1,0 +1,97 @@
+/* .resume{
+    background-color: rgb(249, 249, 254);
+} */
+.lista li{
+    font-size: 30px;
+    font-weight: 800;
+}
+.education{
+    margin-top: 50px;
+    padding:50px;
+    border-radius: 10px;
+   
+   
+}
+.logopng{
+
+    width:70px;
+}
+.sectiontitle{
+    color: white;
+}
+.education h1{
+ margin-top: 50px;
+    font-size: 60px;
+    font-weight: 400;
+    white-space: nowrap;
+    
+
+    
+
+   
+
+}
+
+.education p{
+    font-size: 25px;
+    color:rgba(0, 0, 0, 0.8);
+    font-weight: 800;
+}
+.education hr{
+
+    border-top: 9px dotted white;
+    width:90%;
+    padding-bottom: 20px;
+
+}
+
+.paddint{
+
+    padding-left: 10%;
+}
+.boxy{
+    
+    width: fit-content;
+}
+.iconresu{
+
+    padding-top: 8px;
+    width: 40px;
+  }
+@media (max-width: 600px){
+    .lista li{
+        font-size: 15px;
+        font-weight: 800;
+    }
+    .paddin{
+
+        padding-left: 1%;
+    }
+    
+    .education h1{
+        margin-top: 0;
+        padding-top: 0;
+           font-size: 40px;
+           font-weight: 400;
+           white-space: nowrap;
+
+           color: black;
+          
+       
+       }
+       .iconresu{
+    
+        padding-top: 4px;
+        width: 31px;
+      }
+       .education{
+        margin-top: 0;
+        padding: 0;
+
+       }
+       .vamos{
+           width: 50%;
+       }
+      
+}
+

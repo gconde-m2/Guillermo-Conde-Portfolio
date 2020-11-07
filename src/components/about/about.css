@@ -1,0 +1,39 @@
+.image{
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+  margin-bottom: 3%;
+  width: 400px;
+  margin-left: 30%;
+  width:'400px'
+}
+.about-main{
+
+
+    margin-bottom: 100px;
+    
+    margin-top: 10%;
+    text-align: left;
+    margin-left: 5%;
+}
+.about-main h2{
+
+    
+    font-weight: 300;
+}
+
+@media (max-width: 600px){
+
+.myimage{
+    margin-top: 10%;
+    margin-right: 50%;
+    margin-left: 0%;
+    padding-left: 0;
+}
+
+.image{
+
+ width: 200px;
+    
+}
+
+}

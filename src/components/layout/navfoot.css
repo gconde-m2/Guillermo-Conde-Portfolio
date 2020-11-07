@@ -1,0 +1,49 @@
+.nav{
+    padding-top: 70px;
+    
+}
+.navlogo{
+    width: 100px;
+}
+.enlaces{
+    font-size: 30px;
+    color: white;
+    padding-left: 20px;
+}
+.enlaces a{
+    color:white
+}
+.foot{
+    background-color: #1d1d1d;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    
+}
+.paddin{
+    margin-left: 20px;
+}
+@media (max-width: 600px){
+    .foot{
+        background-color: #1d1d1d;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        height: 50px;
+        width: 100%;
+        overflow: hidden;
+        text-align: center;
+        
+    }
+
+    .enlaces{
+        font-size: 23px;
+        color: white;
+        padding-left: 20px;
+    }
+
+}
