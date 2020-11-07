@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/guillermo-Conde-Portfolio/precache-manifest.a4290c29751710687a1746bc26b5698c.js"
+  "/guillermo-Conde-Portfolio/precache-manifest.205b0d85bc2a859d6e74d652d9b28db5.js"
 );
 
 self.addEventListener('message', (event) => {

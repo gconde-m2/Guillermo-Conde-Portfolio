@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "acd38903a5261836e81a50b9dd4ded88",
+    "revision": "bba54a04a5c122e2a01667e096249b4b",
     "url": "/guillermo-Conde-Portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/guillermo-Conde-Portfolio/static/css/2.e5d0dddf.chunk.css"
   },
   {
-    "revision": "474b19082b362f8835fe",
-    "url": "/guillermo-Conde-Portfolio/static/css/main.3f8a3c9a.chunk.css"
+    "revision": "729f18a6b92b9fdfe9e2",
+    "url": "/guillermo-Conde-Portfolio/static/css/main.7c2b9b5d.chunk.css"
   },
   {
     "revision": "8b358ee8314f85a376c4",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/guillermo-Conde-Portfolio/static/js/2.9f54561b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "474b19082b362f8835fe",
-    "url": "/guillermo-Conde-Portfolio/static/js/main.4f5805a3.chunk.js"
+    "revision": "729f18a6b92b9fdfe9e2",
+    "url": "/guillermo-Conde-Portfolio/static/js/main.e2385c8a.chunk.js"
   },
   {
     "revision": "d7869dd3d85852e613a3",
