@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/guillermo-Conde-Portfolio/static/css/main.7c2b9b5d.chunk.css",
-    "main.js": "/guillermo-Conde-Portfolio/static/js/main.e2385c8a.chunk.js",
-    "main.js.map": "/guillermo-Conde-Portfolio/static/js/main.e2385c8a.chunk.js.map",
+    "main.css": "/guillermo-Conde-Portfolio/static/css/main.89a8b889.chunk.css",
+    "main.js": "/guillermo-Conde-Portfolio/static/js/main.40bdadb0.chunk.js",
+    "main.js.map": "/guillermo-Conde-Portfolio/static/js/main.40bdadb0.chunk.js.map",
     "runtime-main.js": "/guillermo-Conde-Portfolio/static/js/runtime-main.e6acd594.js",
     "runtime-main.js.map": "/guillermo-Conde-Portfolio/static/js/runtime-main.e6acd594.js.map",
     "static/css/2.e5d0dddf.chunk.css": "/guillermo-Conde-Portfolio/static/css/2.e5d0dddf.chunk.css",
     "static/js/2.9f54561b.chunk.js": "/guillermo-Conde-Portfolio/static/js/2.9f54561b.chunk.js",
     "static/js/2.9f54561b.chunk.js.map": "/guillermo-Conde-Portfolio/static/js/2.9f54561b.chunk.js.map",
     "index.html": "/guillermo-Conde-Portfolio/index.html",
-    "precache-manifest.205b0d85bc2a859d6e74d652d9b28db5.js": "/guillermo-Conde-Portfolio/precache-manifest.205b0d85bc2a859d6e74d652d9b28db5.js",
+    "precache-manifest.f327af675f5e7614818e8ee02c441036.js": "/guillermo-Conde-Portfolio/precache-manifest.f327af675f5e7614818e8ee02c441036.js",
     "service-worker.js": "/guillermo-Conde-Portfolio/service-worker.js",
     "static/css/2.e5d0dddf.chunk.css.map": "/guillermo-Conde-Portfolio/static/css/2.e5d0dddf.chunk.css.map",
-    "static/css/main.7c2b9b5d.chunk.css.map": "/guillermo-Conde-Portfolio/static/css/main.7c2b9b5d.chunk.css.map",
+    "static/css/main.89a8b889.chunk.css.map": "/guillermo-Conde-Portfolio/static/css/main.89a8b889.chunk.css.map",
     "static/js/2.9f54561b.chunk.js.LICENSE.txt": "/guillermo-Conde-Portfolio/static/js/2.9f54561b.chunk.js.LICENSE.txt",
     "static/media/42.png": "/guillermo-Conde-Portfolio/static/media/42.2cef0425.png",
     "static/media/buddy.png": "/guillermo-Conde-Portfolio/static/media/buddy.f31ca048.png",
@@ -38,7 +38,7 @@
     "static/js/runtime-main.e6acd594.js",
     "static/css/2.e5d0dddf.chunk.css",
     "static/js/2.9f54561b.chunk.js",
-    "static/css/main.7c2b9b5d.chunk.css",
-    "static/js/main.e2385c8a.chunk.js"
+    "static/css/main.89a8b889.chunk.css",
+    "static/js/main.40bdadb0.chunk.js"
   ]
 }
