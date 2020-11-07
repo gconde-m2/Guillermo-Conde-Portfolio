@@ -24,23 +24,23 @@ function App() {
   useEffect(() => {
     setTimeout(() => setLoading(false), 500)
   }, [])
-
+//
   return (
    <>
     <Navbar/>
     <div className='App'>
 
     <Switch>
-    <Route path="/" exact render={() => loading == false ? <Index /> : <Loading/>} />
-    <Route path="/resume" render={() => loading == false ?<Resume />: <Loading/> }/>
-    <Route path="/aboutme" render={() => loading == false ?<About /> : <Loading/>}/>
-    <Route path="/proyects" render={() => loading == false ?<Proyects /> : <Loading/>}/>
-    <Route path="/contact" render={() => loading == false ?<Contact/> : <Loading/>}/>
-    <Route path="/pro-ninja" render={() => loading == false ?<Ninja/> : <Loading/>}/>
-    <Route path="/pro-buddy" render={() => loading == false ?<Buddy/> : <Loading/>}/>
-    <Route path="/pro-cub3d" render={() => loading == false ?<Cub3d/> : <Loading/>}/>
-    <Route path="/pro-printf" render={() => loading == false ?<Printf/> : <Loading/>}/>
-    <Route path="/pro-motiv" render={() => loading == false ?<Motiv/> : <Loading/>}/>
+    <Route path="/guillermo-Conde-Portfolio" exact render={() => loading == false ? <Index /> : <Loading/>} />
+    <Route path="/guillermo-Conde-Portfolio/resume" render={() => loading == false ?<Resume />: <Loading/> }/>
+    <Route path="/guillermo-Conde-Portfolio/aboutme" render={() => loading == false ?<About /> : <Loading/>}/>
+    <Route path="/guillermo-Conde-Portfolio/proyects" render={() => loading == false ?<Proyects /> : <Loading/>}/>
+    <Route path="/guillermo-Conde-Portfolio/contact" render={() => loading == false ?<Contact/> : <Loading/>}/>
+    <Route path="/guillermo-Conde-Portfolio/pro-ninja" render={() => loading == false ?<Ninja/> : <Loading/>}/>
+    <Route path="/guillermo-Conde-Portfolio/pro-buddy" render={() => loading == false ?<Buddy/> : <Loading/>}/>
+    <Route path="/guillermo-Conde-Portfolio/pro-cub3d" render={() => loading == false ?<Cub3d/> : <Loading/>}/>
+    <Route path="/guillermo-Conde-Portfolio/pro-printf" render={() => loading == false ?<Printf/> : <Loading/>}/>
+    <Route path="/guillermo-Conde-Portfolio/pro-motiv" render={() => loading == false ?<Motiv/> : <Loading/>}/>
     </Switch>
     
     </div> 

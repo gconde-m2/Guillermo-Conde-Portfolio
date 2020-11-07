@@ -15,7 +15,7 @@ import './proyects.css'
 import { Link } from 'react-router-dom'
 import portfolio from './images/portfolio.png'
 function Proyects() {
-
+//
     const [proyect, setProyect] = useState(0)
     const [loading, setLoading] = useState(true)
 
@@ -38,7 +38,7 @@ function Proyects() {
             <h6>BuddyAPP</h6>
             <p> One single page application made with React/Node/Express to help dogs to be adopted.</p>
             <div>
-            <Link to='/pro-buddy'className=''>Check it!</Link>
+            <Link to='/guillermo-Conde-Portfolio/pro-buddy'className=''>Check it!</Link>
             </div>
         </div>
     </div>
@@ -50,7 +50,7 @@ function Proyects() {
             <h6>Motiv</h6>
             <p> Multi page application made with Handlebars/Node/Express for remember your goals.</p>
             <div>
-            <Link to='/pro-motiv'className=''>Check it!</Link>
+            <Link to='/guillermo-Conde-Portfolio/pro-motiv'className=''>Check it!</Link>
             </div>
         </div>
     </div>
@@ -62,7 +62,7 @@ function Proyects() {
             <h6>Jungle Ninja</h6>
             <p> 2D platform game ninja like made in Canvas with full JavaScript.</p>
             <div>
-            <Link to='/pro-ninja'className=''>Check it!</Link>
+            <Link to='/guillermo-Conde-Portfolio/pro-ninja'className=''>Check it!</Link>
             </div>
         </div>
     </div>
@@ -76,7 +76,7 @@ function Proyects() {
             <h6>Cub3d</h6>
             <p>Wolfestein game like made in C, using Raycasting with minilibx and Makefile.</p>
             <div>
-            <Link to='/pro-cub3d'className=''>Check it!</Link>
+            <Link to='/guillermo-Conde-Portfolio/pro-cub3d'className=''>Check it!</Link>
             </div>
         </div>
     </div>
@@ -88,7 +88,7 @@ function Proyects() {
             <h6>Printf & Ft_libft</h6>
             <p>Recreation in C of printf and libft library using Makefile and no other functions.</p>
             <div>
-            <Link to='/pro-printf'className=''>Check it!</Link>
+            <Link to='/guillermo-Conde-Portfolio/pro-printf'className=''>Check it!</Link>
             </div>
         </div>
     </div>
@@ -100,7 +100,7 @@ function Proyects() {
             <h6>Portfolio</h6>
             <p>My own Portfolio made with React.</p>
             <div>
-               <Link to='/'className=''>Check it!</Link>
+               <Link to='/guillermo-Conde-Portfolio/'className=''>Check it!</Link>
             </div>
         </div>
     </div>

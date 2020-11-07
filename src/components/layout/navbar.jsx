@@ -7,7 +7,7 @@ import './navfoot.css'
 import { Link } from 'react-router-dom'
 import logonav from './images/navlogo.png'
 function navbar(){
-
+//
 
 
 return(
@@ -19,10 +19,10 @@ return(
     <Nav className="mr-auto">
     </Nav>
     <Nav className='enlaces'>
-    <Nav.Link href='#'> <Link to='/Guillermo-Conde-Portfolio/resume'className='enlaces'>Resume</Link></Nav.Link>
-     <Nav.Link href='#' ><Link to='/Guillermo-Conde-Portfolio/aboutme'className='enlaces'>About me</Link></Nav.Link>
-      <Nav.Link href='#' ><Link to='/Guillermo-Conde-Portfolio/proyects'className='enlaces'>My work</Link></Nav.Link>
-      <Nav.Link href='#'><Link to='/Guillermo-Conde-Portfolio/contact'className='enlaces'>Contact</Link></Nav.Link>
+    <Nav.Link href='#'> <Link to='/guillermo-Conde-Portfolio/resume'className='enlaces'>Resume</Link></Nav.Link>
+     <Nav.Link href='#' ><Link to='/guillermo-Conde-Portfolio/aboutme'className='enlaces'>About me</Link></Nav.Link>
+      <Nav.Link href='#' ><Link to='/guillermo-Conde-Portfolio/proyects'className='enlaces'>My work</Link></Nav.Link>
+      <Nav.Link href='#'><Link to='/guillermo-Conde-Portfolio/contact'className='enlaces'>Contact</Link></Nav.Link>
     </Nav>
   </Navbar.Collapse>
 </Navbar>
