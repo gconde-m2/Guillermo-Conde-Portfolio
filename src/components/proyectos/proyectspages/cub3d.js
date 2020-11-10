@@ -22,7 +22,7 @@ function Cub3d() {
       <Container fluid className=' justify-content-left'>
         
         <Row className="justify-content-left main-letters">
-          <Col xs={12} md={4} lg={6}>
+          <Col xs={12} md={12} lg={12} xl={6}>
             <section >
         <h1 className='sectiontitle'>Cub3d</h1>
              <h2>
@@ -36,7 +36,7 @@ Game made with Ray Casting in C Wolfestein like, simulating 3d environment
 
             </section>
           </Col>
-          <Col className=''>
+          <Col lg={12}  md={12} xl={6} className=''>
           <img className='gif' src={cubgif} alt='gif'/>
           </Col>
           <Col className='main-buttons'>

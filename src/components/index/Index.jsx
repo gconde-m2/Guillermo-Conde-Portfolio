@@ -53,7 +53,7 @@ function Index() {
         
 
         <Row className="justify-content-left main-letters spacing-index">
-          <Col xs={12} md={4} lg={6}>
+          <Col xs={12} md={6} lg={6}>
             <section >
               <h1 className="text-moving">Hello, <br></br>
               I'm Guillermo,<br></br>
@@ -63,7 +63,7 @@ function Index() {
 
             </section>
           </Col>
-          <Col className='' xs={0} md={4} lg={6}>
+          <Col className='' xs={0} md={6} lg={6}>
             <div  className= 'symbol'>
              <Coding/>
 

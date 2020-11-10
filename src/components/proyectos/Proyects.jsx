@@ -31,7 +31,7 @@ function Proyects() {
 
             <h1 className='sectiontitle margin-title'>My work</h1>
 <Row>
-<Col>
+<Col md = {4}>
     <div className="card">
         <img src={buddy} alt="Buddy" />
         <div className="card-body">
@@ -43,7 +43,7 @@ function Proyects() {
         </div>
     </div>
 </Col>
-<Col>
+<Col md = {4}>
     <div className="card">
         <img src={Motiv} alt="Motiv" />
         <div className="card-body">
@@ -55,7 +55,7 @@ function Proyects() {
         </div>
     </div>
 </Col>
-<Col>
+<Col md = {4}>
     <div className="card">
         <img src={Ninja} alt="ninja" />
         <div className="card-body">
@@ -69,7 +69,7 @@ function Proyects() {
 </Col>
 </Row>
 <Row>
-<Col>
+<Col md = {4}>
     <div className="card">
         <img src={cub3d} alt="Cub3d" />
         <div className="card-body">
@@ -81,7 +81,7 @@ function Proyects() {
         </div>
     </div>
 </Col>
-<Col>
+<Col md = {4}>
     <div className="card">
         <img src={printf} alt="Printf" />
         <div className="card-body">
@@ -93,7 +93,7 @@ function Proyects() {
         </div>
     </div>
 </Col>
-<Col>
+<Col md = {4}>
     <div className="card">
         <img src={portfolio} />
         <div className="card-body">

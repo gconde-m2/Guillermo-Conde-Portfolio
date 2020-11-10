@@ -5,9 +5,11 @@
 .margin-title {
   font-size: 55px;
   text-align: left;
+  
 }
 .gif{
   width:45em
+  
 }
 .buttonPro{
     text-align: center;
@@ -130,6 +132,54 @@
     width:300px;
     margin-top: 4vh;
   }
+}
+@media (min-width: 768px) and (max-width: 1354px){
+
+  .card{
+    margin-left: 0.6vw;
+    margin-bottom: 3vh;
+    width: 200px;
+   
+
+  }
+  .gif{
+    width: 600px;
+    margin-top: 12vh;
+   
+  }
+  .paco{
+    box-sizing: content-box;
+  }
+
+  .whiting a{
+
+    font-size: 30px;
+
+  }
+}
+@media (min-width: 1024px) and (max-width: 1355px){
+
+  .card{
+    margin-left: 0.6vw;
+    margin-bottom: 3vh;
+    width: 300px;
+
+  }
+  .gif{
+    width: 800px;
+    margin-top: 12vh;
+   
+  }
+  .paco{
+    box-sizing: content-box;
+  }
+
+  .whiting a{
+
+    font-size: 30px;
+
+  }
+
 }
 
 

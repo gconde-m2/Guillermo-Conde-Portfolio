@@ -54,7 +54,7 @@ function Contact() {
           <Container fluid className=' justify-content-left'>
 
             <Row className="justify-content-left main-letters">
-              <Col xs={12} md={4} lg={6}>
+              <Col xs={12} md={12} lg={6}>
                 <section >
                   <h1 className='sectiontitle'>Contact</h1>
                   <h2>
@@ -69,15 +69,15 @@ function Contact() {
                   </h2>
                   <section className=''>
                   <a href='https://github.com/gconde-m2'><img  src = {github}/> </a>
-    <a href='https://www.linkedin.com/in/guillermo-conde/'> <img  className='paddin' style={{width:"32px"}} src = {linkedin}/> </a>
-    <a href='https://www.instagram.com/guilleconde23/'> <img  className='paddin' style={{width:"32px"}} src = {instagram}/> </a>
+                  <a href='https://www.linkedin.com/in/guillermo-conde/'> <img  className='paddin' style={{width:"32px"}} src = {linkedin}/> </a>
+                  <a href='https://www.instagram.com/guilleconde23/'> <img  className='paddin' style={{width:"32px"}} src = {instagram}/> </a>
                   </section>
 
                 </section>
               </Col>
               <Col className='symbol' xs={0} md={4} lg={6}>
 
-          <div ref={myRef}>
+          <div className='vantax' ref={myRef}>
           </div>
 
               </Col>

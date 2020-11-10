@@ -42,3 +42,35 @@
 }
 
 }
+@media (min-width: 1024px) and (max-width: 1355px){
+
+    .myimage{
+        margin-top: 4vh;
+        margin-right: 2vh;
+        margin-left: 8vh;
+        padding-left: 0;
+        padding-top: 0;
+    }
+    
+    .image{
+    
+     width: 400px;
+        
+    }
+    .about-main{
+
+        width: 900px;
+        margin-bottom: 100px;
+        
+        margin-top: 10%;
+        text-align: left;
+        margin-left: 5%;
+    }
+    .about-main h2{
+        width: 69vh;
+        font-size: 2.9vh;
+        font-weight: 300;
+    }
+    
+
+}

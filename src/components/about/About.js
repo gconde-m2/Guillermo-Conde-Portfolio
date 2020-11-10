@@ -22,7 +22,7 @@ function About() {
       <Container fluid className=' justify-content-left'>
         
         <Row className="justify-content-left main-letters">
-          <Col xs={12} md={4} lg={6}>
+          <Col xs={12} md={12} lg={6}>
             <section >
         <h1 className='sectiontitle'>About me</h1>
              <h2>
@@ -33,7 +33,7 @@ function About() {
 
             </section>
           </Col>
-          <Col className='myimage' xs={0} md={4} lg={6}>
+          <Col className='myimage' xs={0} md={6} lg={6}>
              
         <img className='image' src={foto}/>
           </Col>

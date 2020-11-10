@@ -22,7 +22,7 @@ function Printf() {
       <Container fluid className=' justify-content-left'>
         
         <Row className="justify-content-left main-letters">
-          <Col xs={12} md={4} lg={6}>
+          <Col xs={12} md={12} lg={12} xl={6}>
             <section >
         <h1 className='sectiontitle'>Printf && FT_Libft</h1>
              <h2>
@@ -36,7 +36,7 @@ function Printf() {
 
             </section>
           </Col>
-          <Col className='' xs={0} md={4} lg={6}>
+          <Col className='' xs={0} md={12} lg={12} xl={6}>
           <img className='gif' src={printf} alt='gif'/>
         
           </Col>
