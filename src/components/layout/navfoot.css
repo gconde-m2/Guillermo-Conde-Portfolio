@@ -1,14 +1,20 @@
 
 .navlogo{
-    width: 8vh;
+    width: 45px;
 }
 .enlaces{
     font-size: 2.4vh;
     color: white;
     padding-left: 16px;
+
 }
-.enlaces a{
-    color:white
+.enlaces a a{
+    color:white;
+    text-decoration: none;
+}
+.enlaces a a:hover{
+    font-weight: 600;
+   
 }
 .foot{
     background-color: #1d1d1d;
@@ -40,10 +46,10 @@
     .enlaces{
         font-size: 23px;
         color: white;
-        padding-left: 2vh;
+        padding-left: 0vh;
     }
     @media (min-width: 1024px) and (max-width: 1355px){
-
+       
 
         
     }

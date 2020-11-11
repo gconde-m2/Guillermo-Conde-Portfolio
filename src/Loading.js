@@ -7,7 +7,7 @@ function Loading() {
 
   return (
    
-    <div className='dots'>
+    <div className='dotscharging'>
 
         <img src={Svdots} />
     

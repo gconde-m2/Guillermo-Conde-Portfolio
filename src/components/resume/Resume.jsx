@@ -48,7 +48,7 @@ function Resume(){
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
-    date="2010 - 2011"
+    date="2019 - 2020"
     iconStyle={{ background: 'rgb(128,128,128)', color: '#fff' }}
     icon = {<img className='iconresu' src={Cased} alt="myLogo" />}
     >
@@ -60,7 +60,7 @@ function Resume(){
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
-    date="2010 - 2011"
+    date="2019 - Act."
     iconStyle={{ background: 'rgb(128,128,128)', color: '#fff' }}
     icon = {<img className='iconresu' src={Graduation} alt="myLogo" />}
     >
@@ -73,7 +73,7 @@ function Resume(){
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
-    date="2008 - 2010"
+    date="2019 - 2020"
     iconStyle={{ background: 'rgb(128,128,128)', color: '#fff' }}
     icon = {<img className='iconresu' src={Graduation} alt="myLogo" />}
     >
@@ -86,7 +86,7 @@ function Resume(){
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
-    date="2006 - 2008"
+    date="2016 - 2017"
     iconStyle={{ background: 'rgb(128,128,128)', color: '#fff' }}
     icon = {<img className='iconresu' src={Graduation} alt="myLogo" />}
     >
@@ -101,7 +101,7 @@ function Resume(){
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--education"
-    date="April 2013"
+    date="2015 - 2016"
     iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
     icon = {<img className='iconresu' src={Graduation} alt="myLogo" />}
     >

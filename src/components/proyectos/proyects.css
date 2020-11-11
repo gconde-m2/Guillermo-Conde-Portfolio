@@ -5,11 +5,9 @@
 .margin-title {
   font-size: 55px;
   text-align: left;
-  
 }
 .gif{
   width:45em
-  
 }
 .buttonPro{
     text-align: center;
@@ -118,7 +116,10 @@
 
 @media (max-width:600px){
 
-  .card{
+  .wrap{
+    margin-top: 3vh;
+  }
+  .tile{
     margin-left: 8.6vw;
     margin-bottom: 3vh;
     width: 300px;
@@ -132,10 +133,13 @@
     width:300px;
     margin-top: 4vh;
   }
+  .todo-all{
+  margin-bottom: 8vh;
+  }
 }
 @media (min-width: 768px) and (max-width: 1354px){
 
-  .card{
+  .tile{
     margin-left: 0.6vw;
     margin-bottom: 3vh;
     width: 200px;
@@ -159,7 +163,7 @@
 }
 @media (min-width: 1024px) and (max-width: 1355px){
 
-  .card{
+  .tile{
     margin-left: 0.6vw;
     margin-bottom: 3vh;
     width: 300px;
@@ -181,9 +185,3 @@
   }
 
 }
-
-
-
-
-
-
